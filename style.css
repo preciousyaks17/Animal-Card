@@ -12,40 +12,11 @@ body{
     line-height: 1.45;
 }
 main{
-    padding-left: 450px;
+    padding-left: 430px;
     padding-top: 50px;
     padding-bottom;
-}/*
-.card-container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 60px;
-    margin: 0 auto;
-    max-width: 375px;
-    flex-direction: row;
-    position: relative;
-    top: -20;
-
 }
-.card-body{
-    
-    
-    
 
-     }
-.image-container{
-    width: 100%;
-}
-.image{
-    display: block;
-    border-radius: 70%;
-    width: 100%;
-
-}
-h4{
-    padding-left: 10px;
-}*/
 .card-container{
     text-align: center;
     box-shadow: 10px 20px px #36454F	;
